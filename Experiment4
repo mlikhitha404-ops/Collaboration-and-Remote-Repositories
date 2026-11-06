@@ -1,0 +1,5 @@
+git clone https://github.com/mlikhitha404-ops/Collaboration-and-Remote-Repositories.git
+cd REPOSITORY
+git remote --v
+git status
+git log --oneline -5
